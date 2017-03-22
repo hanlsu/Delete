@@ -1,2 +1,6 @@
 Git is a version control system
-edit on branch master modifM
+<<<<<<< HEAD
+edit on branch master modifMF
+=======
+edit on branch feature1 modifMF
+>>>>>>> feature1
